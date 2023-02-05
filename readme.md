@@ -10,11 +10,10 @@ This code repository will track the progress of @LilyLeabo and @Leabs working th
 
 ## Building a Python Project
 1. Open the Terminal application.
-2. Navigate to the directory where you want to create your project. (e.g. `cd 01-if`)
-3. Type `touch README.md` to create a README file for your project.
-4. Type `touch <project-name>.py` to create a Python file for your project.
+2. Navigate to the directory where you want to create your project. (e.g. `01-if`)
+3. Type `touch <project-name>.py` to create a Python file for your project.
 
 ## Running a Python Project
 1. Open the Terminal application.
-2. Navigate to the directory where your project is located. (e.g. `cd 01-if`)
+2. Navigate to the directory where your project is located. (e.g. `01-if`)
 3. Type `python3 <project-name>.py` to run your project.
