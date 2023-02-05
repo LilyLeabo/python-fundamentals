@@ -1,17 +1,8 @@
 # Python file that explains IF statements
 
-# Set variable animal to "cat"
-animal = "cat"
+# Set money to the amount of money Lily has
+money = 7
 
-# If animal is "cat" then print "Meow"
-if animal == "cat":
-    print("Meow")
-
-# If animal is "dog" then print "Woof"
-if animal == "dog":
-    print("Woof")
-
-# If animal is "cow" then print "Moo"
-if animal == "cow":
-    print("Moo")
-
+# if lily has over 20000 then print buy a bunny
+if money>20000:
+    print('Buy a bunny')

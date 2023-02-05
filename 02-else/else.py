@@ -1,10 +1,10 @@
 # Python file that explains ELSE statements
 
-# Set variable animal to "cat"
-animal = "dog"
+# Set variable money
+money = 700000000
 
-# If animal is "cat" then print "Meow"
-if animal == "cat":
-    print("Meow")
+# If Money is less than 20k she is sad
+if money > 20000:
+    print("Buy a bunny")
 else:
-    print("Not a cat")
+    print("Lily is sad")
